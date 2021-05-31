@@ -9,6 +9,7 @@
     "model": "../assets/universelle0.gltf",
     "name": "UniverselleAI",
     "background_color": "000",
-    "video":"../assets/universelle0.mp4",
-    "animation_url": ""
+    "video":"https://github.com/JavierCervilla/metadata-nft/blob/master/assets/universelle0.mp4",
+    "animation_url": "https://github.com/JavierCervilla/metadata-nft/blob/master/assets/universelle0.mp4",
+    "ammount": 20,
 }
