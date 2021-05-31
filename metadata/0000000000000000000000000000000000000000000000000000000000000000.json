@@ -5,10 +5,10 @@
         "ammount": 20,
         "rarity":"rare"
     },
-    "image": "",
-    "model": "",
+    "image": "../assets/universelle0.png",
+    "model": "../assets/universelle0.gltf",
     "name": "UniverselleAI",
     "background_color": "000",
-    "video":"",
+    "video":"../assets/universelle0.mp4",
     "animation_url": ""
 }
