@@ -5,7 +5,7 @@
         "ammount": 20,
         "rarity":"rare"
     },
-    "image": "../assets/universelle0.png",
+    "image":"https://github.com/JavierCervilla/metadata-nft/blob/master/assets/universelle0.png",
     "model": "../assets/universelle0.gltf",
     "name": "UniverselleAI",
     "background_color": "000",
