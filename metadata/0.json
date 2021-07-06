@@ -5,6 +5,7 @@
     "image":"https://ipfs.io/ipfs/Qmbn7A3eUE5mTfeXoyYt6S9n2sAhwvaAv6v2kAB4EzJo5i?filename=universelle0.png",
     "background_color":"000",
     "animation_url":"https://ipfs.io/ipfs/QmNXeaWVXerMufuRtPDyNFUYYiZWCSdjWHmDZWW1kV1Dgt?filename=universellenft0.mp4",
+    "video":"https://ipfs.io/ipfs/QmNXeaWVXerMufuRtPDyNFUYYiZWCSdjWHmDZWW1kV1Dgt?filename=universellenft0.mp4",
     "attributes": [
         {
             "trait_type": "Max Supply", 
