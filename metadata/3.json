@@ -5,6 +5,8 @@
     "ammount": 20,
     "image":"https://ipfs.io/ipfs/Qmbn7A3eUE5mTfeXoyYt6S9n2sAhwvaAv6v2kAB4EzJo5i?filename=universelle0.png",
     "background_color":"000",
+    "video": "https://ipfs.io/ipfs/QmcLmXzCUQBTbMsqp4FXJewT9XnRMitWAba3p8W4NKLg4F?filename=flussa.mp4",
+    "animation_url":"https://ipfs.io/ipfs/QmcLmXzCUQBTbMsqp4FXJewT9XnRMitWAba3p8W4NKLg4F?filename=flussa.mp4",
     "attributes": [
         {
             "trait_type": "Max Supply", 
